@@ -1,6 +1,7 @@
 # Solder-Dinosaur
 A pcb made in kicad of the shape of a dinosaur with light up eyes.
 
-<img width="379" height="349" alt="Screenshot 2026-09-05 202738" src="https://github.com/user-attachments/assets/6548f26a-91bb-4850-88de-41a14730091d" />
-<img width="179" height="143" alt="Screenshot 2026-09-05 202800" src="https://github.com/user-attachments/assets/0c2775e9-910e-40ae-a124-e63971937602" />
-<img width="188" height="164" alt="Screenshot 2026-09-05 202745" src="https://github.com/user-attachments/assets/a1a0c092-8f9d-4b5c-8633-ba5f191d39d6" />
+<img width="452" height="374" alt="Screenshot 2026-09-05 212844" src="https://github.com/user-attachments/assets/f0ec4d3b-ecc7-4303-aeab-a3998dde763d" />
+<img width="389" height="320" alt="Screenshot 2026-09-05 213136" src="https://github.com/user-attachments/assets/963501cd-badb-459b-877a-3b362847549c" />
+<img width="239" height="155" alt="Screenshot 2026-09-05 213121" src="https://github.com/user-attachments/assets/565df66e-9385-4ed2-83a1-c37174880bce" />
+
