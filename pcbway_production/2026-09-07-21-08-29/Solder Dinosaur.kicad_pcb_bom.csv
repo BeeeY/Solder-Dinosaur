@@ -1,7 +1,0 @@
-﻿Designator,Quantity,Value,Footprint,Package,MPN,DNP,Mount_Type,Description,Sim.Device,Sim.Type,Sim.Pins,KiLib_Generator
-BT1,1,Battery_Cell,BatteryHolder_Keystone_3034_1x20mm,,,,smt,Single-cell battery,V,DC,1=+ 2=-,
-"C2, C3",2,C,CP_Radial_D8.0mm_P5.00mm,,,,tht,Unpolarized capacitor,,,,capacitor/THT/other
-"D1, D2",2,LED,LED_D5.0mm,,,,tht,Light emitting diode,,,1=K 2=A,LED/THT
-"R1, R2, R3, R4",4,R,R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal,,,,tht,Resistor,,,,resistor/THT
-SW1,1,SW_Push,SW_PUSH_6mm,,,,tht,"Push button switch, generic, two pins",,,,
-U1,1,LM555xN,DIP-8_W7.62mm,,,,tht,"Timer, 555 compatible, PDIP-8",,,,package/DIP/legacy
